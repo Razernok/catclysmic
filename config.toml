@@ -2,7 +2,7 @@ baseurl = ""
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "ShadowNode Modded Game Servers"
+title = "Catclysmic"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"

@@ -1,9 +1,10 @@
 ---
-title: Server Info
+title: Twitch Stream
 author: YourMCGeek
 weight: 1
 ---
 {{< indexes/servers >}}
+{{< twitch channel="catclysmicc" >}}
 <!--
 Here you will find information about who ShadowNode is, what our policies are, and who's on our staff team. 
 
