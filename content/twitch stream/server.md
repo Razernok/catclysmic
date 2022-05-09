@@ -1,5 +1,5 @@
 ---
-title: Servers
+title: Staff
 author: Fayettemat
 aliases: ["/servers", "/server-info/servers"]
 ---

@@ -35,7 +35,7 @@ pygmentCodeFences = true
   disableNextPrev = true
   ordersectionsby = "weight"
   themeVariant = "mine"
-  editURL = "https://github.com/ShadowNode/shadownode.github.io/tree/site/content/"
+  # editURL = "https://github.com/ShadowNode/shadownode.github.io/tree/site/content/"
   disableLandingPageButton = true
   titleSeparator = "|"
 
